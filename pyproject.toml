@@ -16,10 +16,10 @@ changelog = "https://tqdm.github.io/releases"
 wiki = "https://github.com/tqdm/tqdm/wiki"
 
 [project]
-name = "tqdm"
+name = "vscode-tqdm"
 dynamic = ["version"]
 maintainers = [{name = "tqdm developers", email = "devs@tqdm.ml"}]
-description = "Fast, Extensible Progress Meter"
+description = "Fork of VSCode that fixes a rendering bug in VSCode."
 readme = "README.rst"
 requires-python = ">=3.7"
 keywords = ["progressbar", "progressmeter", "progress", "bar", "meter", "rate", "eta", "console", "terminal", "time"]

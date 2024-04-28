@@ -1,6 +1,7 @@
 |Logo|
 
-tqdm
+Fork of tqdm that fixes a rendering bug in VSCode.
+See: https://github.com/tqdm/tqdm/pull/1504
 ====
 
 |Py-Versions| |Versions| |Conda-Forge-Status| |Docker| |Snapcraft|
